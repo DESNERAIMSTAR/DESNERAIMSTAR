@@ -10,7 +10,7 @@
 }
 
 .group-spacing-16 .groupStart-23k01U {
-  background-color: transparent;
+  background-color: transparent; 
 }
 
 .placeholder-37qJjk,
