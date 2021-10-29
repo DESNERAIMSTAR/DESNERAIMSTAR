@@ -1,5 +1,5 @@
 .app-2rEoOp {
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.694) 33%, rgba(0, 0, 0, 0.598) 65%), url(https://wallpapercave.com/wp/wp2490596.jpg);
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.694) 33%, rgba(0, 0, 0, 0.598) 65%), url(https://scontent.fktw4-1.fna.fbcdn.net/v/t1.6435-9/250030733_1502525460127668_834824446357675783_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=e24e4DGdhXcAX9gVNT4&tn=I_3XadbOj1LKK-IZ&_nc_ht=scontent.fktw4-1.fna&oh=105d157eb86d09f386aa46531ba62990&oe=619FF681);
   background-size: cover;
   border: 1px;
 }
